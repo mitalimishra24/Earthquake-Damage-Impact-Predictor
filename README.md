@@ -1,4 +1,6 @@
 # Earthquake-Damage-Impact-Predictor
+![image](https://user-images.githubusercontent.com/74734520/183507956-04c2a598-a51a-4dfd-b2cd-aa108525c35f.png)
+
 
 ## Introduction
 Hi, welcome to our Earthquake Damage Impact Predictor!
