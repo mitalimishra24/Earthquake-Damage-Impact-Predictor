@@ -16,3 +16,6 @@ Tables (csv_household_demographics, csv_household_earthquake_impact and csv_hous
 
 ## Intent of Exploring this Dataset
 The intent of exploring this dataset is to relate the pre and post conditions pertaining to an earthquake. The dataset provides various tables containing information about the building structures,the damages caused by the earthquake, individual household information as well as an individual’s information who was affected by the earthquake. By having such in-depth information, we intend to find insights which will help in assessing the level of damage that an earthquake can cause to a certain section of people or society or building.
+
+### Before Running ....
+In order to run this notebook, please upload/read the kaggle.json file provided in the contents of this repository.
